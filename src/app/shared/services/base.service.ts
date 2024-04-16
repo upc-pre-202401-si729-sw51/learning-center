@@ -1,7 +1,6 @@
 import {environment} from "../../../environments/environment";
 import {HttpClient, HttpErrorResponse, HttpHeaders} from "@angular/common/http";
 import {catchError, Observable, retry, throwError} from "rxjs";
-import * as http from "node:http";
 
 export class BaseService<T> {
   basePath: string = `${environment.serverBasePath}`;
