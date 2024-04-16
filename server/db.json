@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 26,
+      "address": "Nowhere"
+    },
+    {
+      "id": "2",
+      "name": "Jason Bourne",
+      "age": 34,
+      "address": "Unknown"
+    },
+    {
+      "id": "3",
+      "name": "William Norton",
+      "age": 38,
+      "address": "One secret place"
+    },
+    {
+      "id": "4",
+      "name": "Mark Smith",
+      "age": 34,
+      "address": "The New City"
+    },
+    {
+      "id": "d6cd",
+      "name": "Erick Evans",
+      "age": 27,
+      "address": "I don't know"
+    }
+  ]
+}
