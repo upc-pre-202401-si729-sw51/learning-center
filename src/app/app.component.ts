@@ -9,6 +9,7 @@ export class AppComponent {
   title = 'learning-center';
   options = [
     { path: '/home', title: 'Home'},
+    { path: '/learning/students', title: 'Students'},
     { path: '/about', title: 'About'}
   ]
 }
