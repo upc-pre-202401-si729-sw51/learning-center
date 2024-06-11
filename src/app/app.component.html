@@ -2,5 +2,6 @@
   <h1>ACME Learning Center</h1>
   <div class="mat-spacer"></div>
   <a mat-button *ngFor="let option of options" [routerLink]="option.path">{{ option.title }}</a>
+  | <app-authentication-section/>
 </mat-toolbar>
 <router-outlet/>
