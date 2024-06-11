@@ -1,3 +1,3 @@
 export class SignUpResponse {
-  constructor(public id: number, username: string) {}
+  constructor(public id: number, public username: string) {}
 }
